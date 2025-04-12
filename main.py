@@ -16,7 +16,6 @@ def station_result(station, date):
         'date': date,
         'temperture': temperture
     }
-    print(result)
     return result
 
 if __name__ == "__main__":
